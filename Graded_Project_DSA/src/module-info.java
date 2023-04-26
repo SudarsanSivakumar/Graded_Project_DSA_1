@@ -6,4 +6,5 @@
  *
  */
 module Graded_Project_DSA {
+	requires BST;
 }
